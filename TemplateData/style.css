@@ -34,9 +34,9 @@ height: 90px; background: url('BandaLogos.png') cover no-repeat center }
     background-repeat: no-repeat;
 	*/
 	width: 100%;
-	height: 100px;
+	height: 89px;
 	position: fixed;
-	bottom: 0;
+	bottom: -10;
 	left: 0;
 	background-color: #fff;
 	display: flex;
